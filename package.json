@@ -1,0 +1,12 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "aulas/*"
+    ]
+  },
+  "private": true,
+  "main": "index.js",
+  "license": "MIT"
+}
