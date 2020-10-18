@@ -54,13 +54,9 @@ Nos links abaixo você encontra o layout (desenvolvido pela Rocketseat) do proje
 
 Para praticar ainda mais, eu estruturei o projeto na forma de um Monorepo usando Yarn Workspaces, baseado no Code/Drops #42. 
 
-# Monorepo ReactJS, Node.js & React Native com Yarn Workspaces
+### Monorepo ReactJS, Node.js & React Native com Yarn Workspaces
 [Code/Drops #42](https://www.youtube.com/watch?v=k5TkBcUTJus&t=2816s)
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
