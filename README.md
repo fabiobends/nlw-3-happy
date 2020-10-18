@@ -31,10 +31,10 @@ Neste projeto eu aprimorei minhas habilidades com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Ferramentas interessantes que aprendi a usar
+## ✨ Ferramentas interessantes que aprendi a usar
 
 - [Yup](https://github.com/jquense/yup)
-- [Leafet](https://github.com/Leaflet/Leaflet)
+- [Leaflet](https://github.com/Leaflet/Leaflet)
 - [TypeORM](https://github.com/typeorm/typeorm)
 - [Insomnia](https://insomnia.rest) (app)
 - [Beekeeper](https://beekeeper.io) (app)
@@ -54,8 +54,8 @@ Nos links abaixo você encontra o layout (desenvolvido pela Rocketseat) do proje
 
 Para praticar ainda mais, eu estruturei o projeto na forma de um Monorepo usando Yarn Workspaces, baseado no Code/Drops #42. 
 
-### Monorepo ReactJS, Node.js & React Native com Yarn Workspaces
-[Code/Drops #42](https://www.youtube.com/watch?v=k5TkBcUTJus&t=2816s)
+#### Monorepo ReactJS, Node.js & React Native com Yarn Workspaces
+Vídeo: [Code/Drops #42](https://www.youtube.com/watch?v=k5TkBcUTJus&t=2816s)
 
 ## :memo: Licença
 
